@@ -8,6 +8,7 @@ Dieses Repository enthält alle Dokumente unseres Statistik-Projekts, inklusive 
 ├── Analyse_7und8.ipynb               # Hypothesentests sowie damit verbundene Thematiken, behandelt in den Vorlesungen 7 und 8.
 ├── Analyse_8.ipynb                   # Gruppenvergleiche, inkl. Post-hoc Tests und Fehlerkorrekturen, im Einklang mit VL9.
 ├── Analyse_10/_11.ipynb              # Regressions-Analysen sowie -Modelle, gemäss Vorlesungsinhalten der Woche 10 und 11.
+├── Analyse_12.ipynb                  # Analyse der Einwohnerzahlen sowie Transaktionsbeiträge anhand des Benfordschen Gesetz.
 ├── Fallnotiz.ipynb                   # Alle Fallnotizen des Projekts, enthält (teilweise wiederholend) alle Interpretationen und Begründungen.
 ├── Add-ons.ipynb                     # Code für zusätzliche Grafiken , die wir in unserer Zwischen-/Abschlusspräsentation verwendet haben. Zusätzlich enthält es unser logistisches Regressionmodell, welches wir für die Zwischenpräsentation entworfen haben.
 └── README.md                         # Alle Informationen über das Repository sowie den Table of Contributions & Table of Prompts.
@@ -32,6 +33,7 @@ Im Anschluss findet sich eine Tabelle welche aufzeigt, wer primär an was gearbe
 | Analyse_7und8.ipynb      | Hypothesentests, durchgeführt von Phil. |
 | Analyse_9.ipynb      | Gruppenvergleiche, durchgeführt von Karla. |
 | Analyse_10.ipynb + Analyse_11.ipynb        | Regression (einfache, multiple sowie Panel-Ansätze), durchgeführt von Thierry. |
+| Analyse_12.ipynb | Benfordsches Gesetz, angewendet von Thierry. |
 | README.md | Informationen über das Projekt, erstellt von Thierry. |
 | Fallnotiz.ipynb + Table of Prompts (in README.md) | Gemeinsam erstellt und jeweils befüllt während der Analysen, über den gesamten Verlauf des Projekts. |
 
