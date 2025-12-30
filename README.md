@@ -53,3 +53,21 @@ Im Anschluss findet sich eine Tabelle welche aufzeigt, wer primär an was gearbe
 | ChatGPT 5.0 | Ich analysiere den Betrag amt über mehrere kategoriale Gruppen. Schreibe Code, der die Verteilung je Gruppe untersucht (z. B. Schiefe) und begründet, warum ein nichtparametrischer Test angebracht ist. Nutze pandas und scipy.|
 | ChatGPT 5.0 | Ich möchte prüfen, wie sich eine log-Transformation auf die Verteilung von amt auswirkt. Schreibe Code, der: Histogramme von amt und log(amt) nebeneinander darstellt, Median und Mittelwert einzeichnet, kurze Kommentare im Code ergänzt.|
 | ChatGPT 5.0 | Ich habe eine kontinuierliche Variable age. Schreibe Python-Code, der: age in sinnvolle Altersgruppen (Bins) einteilt die Gruppen sprechend benennt (z. B. '18–25', '26–35'), das Ergebnis als neue Spalte age_group speichert.|
+| ChatGPT 5.0 | wieso ist der mod Z score grösser als der z score an was liegt das kannst du mir das erklären?|
+| ChatGPT 5.0 | welche verschiedenen linien gibt es in dem QQ-Plot und für was sind sie da?|
+|Deepseek V2| wie kann ich hier die Seitenzahl ergänzen sollte 7 sein
+
+\begin{frame}{Relatives Risiko (Risk Ratio) und Bootstrap}
+\begin{center}
+    
+\end{center}
+
+\begin{minipage}[t]{0.48\textwidth}
+\includegraphics[width=\linewidth]{pics/Screenshot 2025-11-06 at 11.39.17.png}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\includegraphics[width=\linewidth,height=0.72\textheight,keepaspectratio]{pics/Screenshot 2025-11-06 at 11.20.55.png}
+\end{minipage}
+    
+
+\end{frame}|
